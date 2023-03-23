@@ -1,0 +1,4 @@
+DB_USERNAME = testing_user
+DB_PASSWORD = 9ZiSpThD8aSuWTfO
+
+DB_URI = mongodb+srv://testing_user:9ZiSpThD8aSuWTfO@cluster0.7vzgrxu.mongodb.net/?retryWrites=true&w=majority
